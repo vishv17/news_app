@@ -4,6 +4,10 @@ A new Flutter application for News application.
 
 This Application displays recent news from newsapi.org as well as Display  
 
+![Screenshot_1622359181](https://user-images.githubusercontent.com/31984136/120099573-ccf83200-c159-11eb-927d-3d7c57b5c5f0.png)
+![Screenshot_1622358750](https://user-images.githubusercontent.com/31984136/120099576-cec1f580-c159-11eb-978c-bb6a80515bf1.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
