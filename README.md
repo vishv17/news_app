@@ -1,6 +1,8 @@
-# new_app
+# news_app
 
-A new Flutter application for new application
+A new Flutter application for News application.
+
+This Application displays recent news from newsapi.org as well as Display  
 
 ## Getting Started
 
